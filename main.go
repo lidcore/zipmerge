@@ -22,7 +22,7 @@ import (
 	"log"
 	"os"
 
-	"rsc.io/zipmerge/internal/zip"
+	"zipmerge/internal/zip"
 )
 
 func usage() {
